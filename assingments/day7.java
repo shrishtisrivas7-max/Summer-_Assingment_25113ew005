@@ -78,4 +78,8 @@ public class day7 {
         reverse(number);
     }
 } 
+<<<<<<< HEAD
 */
+=======
+*/
+>>>>>>> e4add868f8ce5556254d901d9c48c386808e13b7
